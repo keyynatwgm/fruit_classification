@@ -19,7 +19,7 @@ This dataset contains images of whole fruit and pieces of fruit consisting of 44
 * 🥭 Mangga (Mangga)
 * 🍉 Watermelon (Semangka) etc.
 
-* Dataset link = https://www.kaggle.com/datasets/keynatwgm/fruits-nutrionix
+Dataset link = https://www.kaggle.com/datasets/keynatwgm/fruits-nutrionix
 
 ## [3] Model Architecture
 
