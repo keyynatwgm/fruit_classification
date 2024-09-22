@@ -28,9 +28,9 @@ EfficientNetB1 is part of the EfficientNet family of models, which are known for
 ## [4] Why EfficientNetB1?
 
 We chose EfficientNetB1 for this project for the following reasons:
-1. Efficiency: EfficientNetB1 offers a great trade-off between model size and accuracy. It is designed to achieve better accuracy with fewer parameters compared to traditional models like ResNet or VGG.
-2. Scalability: EfficientNetB1 is part of a scalable architecture that allows us to easily adapt the model to different computational constraints. For fruit classification, EfficientNetB1 provides a suitable balance between speed and performance.
-3. Accuracy: With its optimized architecture, EfficientNetB1 is capable of delivering high classification accuracy on image data, making it ideal for tasks like fruit classification where precise predictions are needed.
+1. Efficiency   : EfficientNetB1 offers a great trade-off between model size and accuracy. It is designed to achieve better accuracy with fewer parameters compared to traditional models like ResNet or VGG.
+2. Scalability  : EfficientNetB1 is part of a scalable architecture that allows us to easily adapt the model to different computational constraints. For fruit classification, EfficientNetB1 provides a suitable balance between speed and performance.
+3. Accuracy     : With its optimized architecture, EfficientNetB1 is capable of delivering high classification accuracy on image data, making it ideal for tasks like fruit classification where precise predictions are needed.
 
 ## [5] Requirements
 
